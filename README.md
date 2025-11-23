@@ -24,12 +24,12 @@ A small interactive environment for exploring how an agent interprets rules, tas
 
 ### • ML Input Drift Playground  
 A lightweight tool showing how inconsistent inputs, missing context, or schema drift affect model predictions and stability.
-- **Live Demo:** _coming soon_  
-- **Repo:** https://github.com/rtfenter/ML-Input-Drift-Playground
+- **Live Demo:** _coming soon_
+- - **Repo:** _coming soon_
 ### • LLM Governance Visualizer  
 A simple visual model of guardrails, validation layers, and governance rules that shape large-language-model behavior.
 - **Live Demo:** _coming soon_  
-- **Repo:** https://github.com/rtfenter/LLM-Governance-Visualizer
+- **Repo:** _coming soon_
   
 ---
 
