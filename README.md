@@ -1,6 +1,7 @@
 # Applied Intelligence Systems Series  
 ### Tools, simulations, and system models for understanding agent behavior, ML trust, and intelligence alignment
 This series collects my work on applied intelligence systems — where agents, models, governance layers, and system interpretation meet.  
+
 It includes small prototypes, diagrams, and conceptual tools that explore how intelligent systems behave, drift, and make decisions under constraints.
 My goal is to make intelligence legible — not as mysticism, but as a set of system dynamics involving signals, inputs, constraints, interpretation layers, and trust boundaries.
 ---
