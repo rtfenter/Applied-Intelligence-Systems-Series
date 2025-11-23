@@ -18,9 +18,10 @@ A curated selection of essays exploring agent behavior, ML input quality, system
 These projects each have their own repo and contribute to the broader Applied Intelligence portfolio.
 
 ### • Agent Behavior Sandbox  
-A small interactive environment for visualizing how an agent processes tasks, rules, and constraints — and how behavior changes as signals drift.
+A small interactive environment for exploring how an agent interprets rules, tasks, and constraints — and how its behavior shifts as signals drift or conflict.
 - **Live Demo:** _coming soon_  
 - **Repo:** https://github.com/rtfenter/Agent-Behavior-Sandbox
+
 ### • ML Input Drift Playground  
 A lightweight tool showing how inconsistent inputs, missing context, or schema drift affect model predictions and stability.
 - **Live Demo:** _coming soon_  
