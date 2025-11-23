@@ -37,6 +37,7 @@ A simple visual model of guardrails, validation layers, and governance rules tha
 These diagrams illustrate how intelligence systems process signals, apply rules, and generate behavior.
 
 ### Signal → Interpretation → Action Flow
+```text
 [Input Signal]  
       |  
       v  
@@ -65,6 +66,7 @@ These diagrams illustrate how intelligence systems process signals, apply rules,
 [Feedback Loop]  
   - adjustments  
   - learning mechanisms
+  ```
 ---
 ## Meaning Drift Across Intelligence Systems
                   [Canonical Input Meaning]  
