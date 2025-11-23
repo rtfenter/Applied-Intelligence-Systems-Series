@@ -89,14 +89,16 @@ Consequences:
 ---
 
 ## Why Applied Intelligence Systems Matter  
-Modern systems increasingly rely on autonomous components — agents, LLMs, decision engines, rule systems — that interpret, transform, and act on signals.  
+Modern systems increasingly rely on autonomous components — agents, LLMs, decision engines, rule systems — that interpret, transform, and act on signals.
+
 Understanding these systems requires clarity in:  
 - how inputs are interpreted  
 - where drift appears  
 - how constraints shape behavior  
 - how trust boundaries are enforced  
 - how meaning diverges across layers  
-- where governance must intervene  
+- where governance must intervene
+  
 This series turns those dynamics into practical, visible artifacts for PMs, engineers, and researchers.
 
 ---
