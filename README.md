@@ -19,7 +19,7 @@ These projects each have their own repo and contribute to the broader Applied In
 
 ### • Agent Behavior Sandbox  
 A small interactive environment for exploring how an agent interprets rules, tasks, and constraints — and how its behavior shifts as signals drift or conflict.
-- **Live Demo:** _coming soon_  
+- **Live Demo:** https://rtfenter.github.io/Agent-Behavior-Sandbox/  
 - **Repo:** https://github.com/rtfenter/Agent-Behavior-Sandbox
 
 ### • ML Input Drift Playground  
