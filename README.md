@@ -64,9 +64,17 @@ This series expresses that philosophy through interactive tools that surface how
 
 ---
 
-## Writing  
-Essays exploring agent behavior, ML input quality, system alignment, and autonomous decision mechanics.  
-*(Essays coming soon.)*
+## Writing
+
+Planned essays on agent behavior, interpretation layers, system drift, and intelligent decision mechanics.
+(These essays are not yet written — titles represent upcoming work.)
+
+- Why Interpretation Is the Real Computation  
+- Designing Agents That Don’t Misread the World  
+- When Rules Matter More Than Models  
+- The Hidden Drift in Multi-Agent Systems  
+- Fallback Logic as a Product Surface  
+
 
 ---
 
