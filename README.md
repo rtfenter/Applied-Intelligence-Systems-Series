@@ -85,11 +85,13 @@ Planned essays on agent behavior, interpretation layers, system drift, and intel
 | Prototype | Purpose | Live Demo | Repo |
 |----------|---------|-----------|------|
 | **Agent Behavior Sandbox** | Explore how an agent interprets tasks, rules, and conflicting signals | https://rtfenter.github.io/Agent-Behavior-Sandbox/ | https://github.com/rtfenter/Agent-Behavior-Sandbox |
+| **Admin Rule Engine Playground** | Test how admin-configured rules stack, conflict, and resolve | https://rtfenter.github.io/Admin-Rule-Engine/ | https://github.com/rtfenter/Admin-Rule-Engine |
 | **ML Input Drift Playground** | Show how input inconsistency and drift affect model outputs | coming soon | coming soon |
 | **LLM Governance / Guardrail Visualizer** | Visualize guardrails, validation layers, and policy logic | coming soon | coming soon |
 | **Model Decision Graph Viewer** | Explore branching logic, constraints, and decision paths | coming soon | coming soon |
 | **Agent State Transition Map** | Map tasks → states → errors → fallbacks → recovery | https://rtfenter.github.io/Agent-State-Transition-Map/ | https://github.com/rtfenter/Agent-State-Transition-Map |
 | **AI Failure Mode Explorer** | Visualize hallucination, compression, contradiction, and context collapse | https://rtfenter.github.io/AI-Failure-Mode-Explorer/ | https://github.com/rtfenter/AI-Failure-Mode-Explorer |
+
 
 
 ---
