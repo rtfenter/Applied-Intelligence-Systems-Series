@@ -88,8 +88,9 @@ Planned essays on agent behavior, interpretation layers, system drift, and intel
 | **ML Input Drift Playground** | Show how input inconsistency and drift affect model outputs | coming soon | coming soon |
 | **LLM Governance / Guardrail Visualizer** | Visualize guardrails, validation layers, and policy logic | coming soon | coming soon |
 | **Model Decision Graph Viewer** | Explore branching logic, constraints, and decision paths | coming soon | coming soon |
-| **Agent State Transition Map** | Map tasks → states → errors → fallbacks → recovery | coming soon | coming soon |
-| **AI Failure Mode Explorer** | Visualize hallucination, compression, contradiction, and context collapse | coming soon | coming soon |
+| **Agent State Transition Map** | Map tasks → states → errors → fallbacks → recovery | https://rtfenter.github.io/Agent-State-Transition-Map/ | https://github.com/rtfenter/Agent-State-Transition-Map |
+| **AI Failure Mode Explorer** | Visualize hallucination, compression, contradiction, and context collapse | https://rtfenter.github.io/AI-Failure-Mode-Explorer/ | https://github.com/rtfenter/AI-Failure-Mode-Explorer |
+
 
 ---
 
